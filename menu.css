@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+}h1 {
+    background-color: #D12317;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+
+header, footer {
+    text-align: center;
+    padding: 1rem;
+}
+
+.menu-category h2 {
+    color: #D04A02; 
+    margin-bottom: 0.5rem;
+}
+
+.menu-category ul {
+    list-style-type: none; 
+    padding: 0;
+}
+
+.menu-category li {
+    background-color: #f0e9e9; 
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+}
